@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/ef650d58f775438b84a5ba0f07a154be_0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Boundary [Chicago, Illinois] (1940)",
+  "dct_provenance_s": "University of Chicago Library GIS Data Hub",
+  "layer_slug_s": "ef650d58f775438b84a5ba0f07a154be_0",
+  "solr_geom": "ENVELOPE(-87.8338,-87.5180,42.0255,41.6432)",
+  "solr_year_i": "1940",
+  "dc_creator_sm": [
+    "University of Chicago Library"
+  ],
+  "dc_description_s": "This map is part of a collection of 10 maps showing the location of Presbyterian Churches in relation to ethnic groups in the city of Chicago. The manuscript title is \"The effects of subsity of Presbyterian Churches\", by Henry Hughes Presler, and can be found at Mansueto Library, University of Chicago under the call number BX 10999. These maps have been outlined and vectorized as the originals, and points placed for location of churches as they were in the original. Call number for the maps: G4104.C6E1 1948.H6. Map Collection, Regenstein Library, University of Chicago. Drawn from Map 9 - Locations of Presbyterian churches in relation to ethnic groups in the city of Chicago, by Census Tracts, 1940.",
+  "dc_format_s": "Shapefile",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://library-uchicago.opendata.arcgis.com/datasets/ef650d58f775438b84a5ba0f07a154be_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services.arcgis.com/ppFhFO7kjyIF441C/arcgis/rest/services/Map_9_1940_Boundary/FeatureServer/0\",\"http://schema.org/url\":\"https://library-uchicago.opendata.arcgis.com/datasets/ef650d58f775438b84a5ba0f07a154be_0\"}",
+  "dct_spatial_sm": [
+    "Cook County, Illinois",
+    "Burbank, Illinois",
+    "Berwyn, Illinois",
+    "Calumet Park, Illinois",
+    "Palos Heights, Illinois",
+    "Forest View, Illinois",
+    "Lincolnwood, Illinois",
+    "Bridgeview, Illinois",
+    "Evergreen Park, Illinois",
+    "Merrionette Park, Illinois",
+    "Chicago Ridge, Illinois",
+    "Alsip, Illinois",
+    "Cicero, Illinois",
+    "Oak Lawn, Illinois",
+    "Hometown, Illinois",
+    "Oak Park, Illinois",
+    "Worth, Illinois",
+    "Stickney, Illinois",
+    "Harwood Heights, Illinois",
+    "Elmwood Park, Illinois",
+    "Illinois"
+  ],
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2021-12-07T16:51:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "2019-08-02",
+  "dct_temporal_sm": [
+    "1940"
+  ]
+}
