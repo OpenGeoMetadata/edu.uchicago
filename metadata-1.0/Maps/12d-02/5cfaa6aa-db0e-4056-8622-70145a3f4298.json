@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5cfaa6aa-db0e-4056-8622-70145a3f4298",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Americae nova tabula",
+  "dct_provenance_s": "University of Chicago",
+  "layer_slug_s": "5cfaa6aa-db0e-4056-8622-70145a3f4298",
+  "solr_geom": "ENVELOPE(-177.6667,-17.6667,70,-70)",
+  "solr_year_i": "1635",
+  "dc_creator_sm": [
+    "Blaeu, Willem Janszoon, 1571-1638"
+  ],
+  "dc_description_s": "1 map: color; Relief shown pictorially; Shows drainage and settlements; Appears in the author's Le théâtre dv monde, on novvel atlas; Includes 10 vignettes on sides and 9 plans of cities at top; On verso: Text in latin; Color outline. Scale approximately 1:45,000,000. At Equator (W 177°40ʹ--W 17°40ʹ/N 70°--S 70°).",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/2353/G3290-1635-B5.jpg\",\"http://schema.org/url\":\"http://pi.lib.uchicago.edu/1001/maps/earlymapsamericas/G3290-1635-B5\"}",
+  "dct_spatial_sm": [
+    "Western Hemispherre"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:18Z",
+  "dc_publisher_s": "Abraham Ortelius",
+  "dct_temporal_sm": [
+    "1635"
+  ]
+}

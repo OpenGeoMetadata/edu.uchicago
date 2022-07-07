@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9d6c4bdf-ba91-407c-9730-eea591bd311e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "L'Amérique Septentrionale, ou la partie septentrionale des Indes Occidentales, où se trouve le Canada ou Nouvelle France, la Floride, la Virginie, les Isles Antilles, le Nouveau Mexique et la Nouvele. Espagne",
+  "dct_provenance_s": "University of Chicago",
+  "layer_slug_s": "9d6c4bdf-ba91-407c-9730-eea591bd311e",
+  "solr_geom": "ENVELOPE(-125.75,-37.85,60.85,4.7333)",
+  "solr_year_i": "1704",
+  "dc_creator_sm": [
+    "Nolin, Jean Baptiste, 1648-1708"
+  ],
+  "dc_description_s": "1 map: color; Relief shown pictorially; Watermark; Includes text. Scale approximately 1:14,250,000 (W 125°45ʹ00ʺ--W 37°51ʹ00ʺ/N 60°51ʹ00ʺ--N 4°44ʹ00ʺ).",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/2353/G3200-svar-E37.jpg\",\"http://schema.org/url\":\"http://pi.lib.uchicago.edu/1001/maps/earlymapsamericas/G3200-svar-E37\"}",
+  "dct_spatial_sm": [
+    "North America",
+    "Caribbean"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:33Z",
+  "dc_language_sm": [
+    "fre"
+  ],
+  "dc_publisher_s": "Chez J.B. Nolin",
+  "dct_temporal_sm": [
+    "1704"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "https://www.lib.uchicago.edu/ark:/61001/b2qd0bb4kk01",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Brighton Park[electronic resource] /prepared by Department of Sociology, University of Chicago, 1923.",
+  "dct_provenance_s": "University of Chicago",
+  "layer_slug_s": "fe108791-ce15-4313-8635-11896142cbb4",
+  "solr_geom": "ENVELOPE(-87.7172,-87.6742,41.8403,41.8036)",
+  "solr_year_i": "1923",
+  "dc_creator_sm": [
+    "University of Chicago Department of Sociology"
+  ],
+  "dc_description_s": "Blue line print. Shows vacant frontage, residential area, commercial frontage, industrial areas, railroad property, surface lines, and churches.; Scale [ca. 1:8,000]; photocopy; Master and use copy. Digital master created according to Benchmark for Faithful Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6-2B8-1923-U5.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2qd0bb4kk01\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2qd0bb4kk01.json\"}",
+  "dct_spatial_sm": [
+    "Brighton Park, Chicago, Illinois",
+    "Chicago, Illinois",
+    "Illinois"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:04Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ]
+}

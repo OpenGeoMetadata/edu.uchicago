@@ -1,0 +1,25 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "af69e9ae-de51-4532-93f0-271e3e29dd98",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The Gulf of Amapalla",
+  "dct_provenance_s": "University of Chicago",
+  "layer_slug_s": "af69e9ae-de51-4532-93f0-271e3e29dd98",
+  "solr_geom": "ENVELOPE(-87.7472,-87.4586,13.5094,13.0492)",
+  "solr_year_i": "1707",
+  "dc_description_s": "1 map: black and white; \"Fig XXV.\"; Print version published as a foldout plate in William Funnell. A voyage round the world :. London, Printed by W. Botham, for James Knapton, 1707, facing page 120. Scale not given (W 87°44'50\"-W 87°27'31\"/N 13°30'34\"-N 13°02'57\").",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/2353/G420-D2F90-02.jpg\",\"http://schema.org/url\":\"http://pi.lib.uchicago.edu/1001/maps/earlymapsamericas/G420-D2F90-02\"}",
+  "dct_spatial_sm": [
+    "Gulf of Fonseca",
+    "Pacific Ocean"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Printed by W. Botham for James Knapton",
+  "dct_temporal_sm": [
+    "1707"
+  ]
+}
