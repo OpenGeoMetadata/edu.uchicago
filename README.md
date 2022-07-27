@@ -1,6 +1,4 @@
-# edu.uchicago
-
-#### Geospatial metadata for the University of Chicago
+# Geospatial metadata for the University of Chicago
 
 `metadata-version-1`: JSON metadata, [GeoBlacklight Metadata Schema 1.0](https://opengeometadata.org/docs/gbl-1.0).
 
