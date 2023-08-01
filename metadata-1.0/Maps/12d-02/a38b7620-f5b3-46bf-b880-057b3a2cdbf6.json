@@ -5,7 +5,7 @@
   "dc_title_s": "America siue India Nova ad magnae Gerardi Mercatoris aut Vniversalis imitationem in compendium redacta",
   "dct_provenance_s": "University of Chicago",
   "layer_slug_s": "a38b7620-f5b3-46bf-b880-057b3a2cdbf6",
-  "solr_geom": "ENVELOPE(-180,0,90,-90)",
+  "solr_geom": "ENVELOPE(-179.9,0,89,-89)",
   "solr_year_i": "1595",
   "dc_creator_sm": [
     "Mercator, Michael"
@@ -16,7 +16,11 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:33Z",
+  "layer_modified_dt": "2023-06-23T22:02:39Z",
+  "dc_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dct_temporal_sm": [
     "approximately 1595"
   ]

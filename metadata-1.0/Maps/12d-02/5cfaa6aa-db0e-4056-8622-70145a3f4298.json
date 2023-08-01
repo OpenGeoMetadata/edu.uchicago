@@ -16,7 +16,11 @@
   "dct_spatial_sm": [
     "Western Hemispherre"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:18Z",
+  "layer_modified_dt": "2023-02-03T21:16:19Z",
+  "dc_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dc_publisher_s": "Abraham Ortelius",
   "dct_temporal_sm": [
     "1635"

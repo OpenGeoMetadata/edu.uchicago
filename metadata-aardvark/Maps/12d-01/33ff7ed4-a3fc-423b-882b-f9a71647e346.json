@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mayer, Harold M (Harold Melvin),1916-1994"
+    "Mayer, Harold M. (Harold Melvin), 1916-1994"
   ],
   "schema_provider_s": "University of Chicago",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Railroads",
-    "University of Chicago Social Science Maps"
+    "University of Chicago Social Science Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1943"
@@ -30,10 +31,10 @@
     "[1943 TO 1943]"
   ],
   "dct_spatial_sm": [
-    "Chicago, Illinois",
+    "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.9667,-87.3167,42.1167,41.4667)",
+  "locn_geometry": "POLYGON((-87.9667 42.1167, -87.3167 42.1167, -87.3167 41.4667, -87.9667 41.4667, -87.9667 42.1167))",
   "dcat_bbox": "ENVELOPE(-87.9667,-87.3167,42.1167,41.4667)",
   "dcat_centroid": "41.791700000000006,-87.6417",
   "pcdm_memberOf_sm": [
@@ -47,11 +48,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6P3-1943-M2.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2mz7z92wv8n\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2mz7z92wv8n.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6P3-1943-M2.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2mz7z92wv8t\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2mz7z92wv8t.json\"}",
   "id": "33ff7ed4-a3fc-423b-882b-f9a71647e346",
   "dct_identifier_sm": [
-    "https://www.lib.uchicago.edu/ark:/61001/b2mz7z92wv8n"
+    "https://www.lib.uchicago.edu/ark:/61001/b2mz7z92wv8t"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:05Z",
+  "gbl_mdModified_dt": "2023-03-22T22:15:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

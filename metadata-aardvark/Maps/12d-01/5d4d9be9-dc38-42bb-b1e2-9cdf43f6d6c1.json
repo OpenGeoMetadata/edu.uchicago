@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Reckless, Walter C ,1899-1988"
+    "Reckless, Walter C., 1899-1988"
   ],
   "schema_provider_s": "University of Chicago",
   "gbl_resourceClass_sm": [
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "Prostitution",
     "University of Chicago Social Science Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910-1929"
@@ -29,10 +30,10 @@
     "[1910 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "Chicago, Illinois",
+    "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.85,-87.5167,42.0167,41.6333)",
+  "locn_geometry": "POLYGON((-87.85 42.0167, -87.5167 42.0167, -87.5167 41.6333, -87.85 41.6333, -87.85 42.0167))",
   "dcat_bbox": "ENVELOPE(-87.85,-87.5167,42.0167,41.6333)",
   "dcat_centroid": "41.825,-87.68334999999999",
   "pcdm_memberOf_sm": [
@@ -46,11 +47,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6E625-1910-R4.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2vm2sg8j85v\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2vm2sg8j85v.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6E625-1910-R4.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2vm2sg8j85d\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2vm2sg8j85d.json\"}",
   "id": "5d4d9be9-dc38-42bb-b1e2-9cdf43f6d6c1",
   "dct_identifier_sm": [
-    "https://www.lib.uchicago.edu/ark:/61001/b2vm2sg8j85v"
+    "https://www.lib.uchicago.edu/ark:/61001/b2vm2sg8j85d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:39Z",
+  "gbl_mdModified_dt": "2023-03-22T22:15:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

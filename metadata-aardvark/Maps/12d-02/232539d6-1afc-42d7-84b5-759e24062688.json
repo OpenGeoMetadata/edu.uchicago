@@ -3,6 +3,9 @@
   "dct_description_sm": [
     "1 map: color; Relief shown pictorially; Shows southeastern North America as Florida with colony of Virginia, Pacific and Gulf coasts of Central America, northern coast of South America, and the West Indies; Includes illustrations; From his Atlas Minor; \"For the French names on the Florida coast Visscher appears to have based his map on Mercator's Virginiae item et Floridae. nova descriptio 1606. The plate appears to be the same used with the same title by Janssón, 1642; Guilielmus Blaeu, 1644; Johannis Blaeu, 1667; Valck and Schenk, 1710 (?\")--cf. Philip Lee Phillips. Scale approximately 1:9,250,000 (W 100°33ʹ00ʺ--W 50°13ʹ00ʺ/N 37°22ʹ00ʺ--S 0°23ʹ00ʺ)."
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_creator_sm": [
     "Visscher, Nicolaes, 1649-1702"
   ],
@@ -17,7 +20,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1670 and 1690"
@@ -33,7 +38,7 @@
     "West Indies",
     "Central America"
   ],
-  "locn_geometry": "ENVELOPE(-100.55,-50.2167,37.3667,-0.3833)",
+  "locn_geometry": "POLYGON((-100.55 37.3667, -50.2167 37.3667, -50.2167 -0.3833, -100.55 -0.3833, -100.55 37.3667))",
   "dcat_bbox": "ENVELOPE(-100.55,-50.2167,37.3667,-0.3833)",
   "dcat_centroid": "18.4917,-75.38335000000001",
   "pcdm_memberOf_sm": [
@@ -49,6 +54,6 @@
   "dct_identifier_sm": [
     "232539d6-1afc-42d7-84b5-759e24062688"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:54Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

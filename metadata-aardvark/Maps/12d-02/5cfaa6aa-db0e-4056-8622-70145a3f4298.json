@@ -3,6 +3,10 @@
   "dct_description_sm": [
     "1 map: color; Relief shown pictorially; Shows drainage and settlements; Appears in the author's Le théâtre dv monde, on novvel atlas; Includes 10 vignettes on sides and 9 plans of cities at top; On verso: Text in latin; Color outline. Scale approximately 1:45,000,000. At Equator (W 177°40ʹ--W 17°40ʹ/N 70°--S 70°)."
   ],
+  "dct_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dct_creator_sm": [
     "Blaeu, Willem Janszoon, 1571-1638"
   ],
@@ -17,7 +21,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1635"
@@ -31,7 +37,7 @@
   "dct_spatial_sm": [
     "Western Hemispherre"
   ],
-  "locn_geometry": "ENVELOPE(-177.6667,-17.6667,70,-70)",
+  "locn_geometry": "POLYGON((-177.6667 70, -17.6667 70, -17.6667 -70, -177.6667 -70, -177.6667 70))",
   "dcat_bbox": "ENVELOPE(-177.6667,-17.6667,70,-70)",
   "dcat_centroid": "0.0,-97.66669999999999",
   "pcdm_memberOf_sm": [
@@ -47,6 +53,6 @@
   "dct_identifier_sm": [
     "5cfaa6aa-db0e-4056-8622-70145a3f4298"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:18Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

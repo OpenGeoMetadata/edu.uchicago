@@ -3,6 +3,10 @@
   "dct_description_sm": [
     "1 map: color; (In New (A) general atlas. (anon.) fol. London for D. Browne, 1721. facing p. 236); Decorated title inset with natives in costume. Date 1721 pencilled in; Relief shown pictorially; Shows entire western hemisphere, with California as an island; Watermarks: Fleur de lis, AB; Dedication: Most humbly inscrib(e)d to the Right Hono(ra)ble The Earl of Berkshire &c. Deputy Earl Marshal of England; Includes elaborate cartouche depicting native Americans in upper left corner; Does not include legend. Scale approximately 1:33,960,000 (W 174°32ʹ00ʺ--W 20°12ʹ00ʺ/N 71°39ʹ00ʺ--S 70°35ʹ00ʺ)."
   ],
+  "dct_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dct_creator_sm": [
     "Senex, John, -1740"
   ],
@@ -14,7 +18,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1721"
@@ -28,7 +34,7 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "locn_geometry": "ENVELOPE(-174.5333,-20.2,71.65,-70.5833)",
+  "locn_geometry": "POLYGON((-174.5333 71.65, -20.2 71.65, -20.2 -70.5833, -174.5333 -70.5833, -174.5333 71.65))",
   "dcat_bbox": "ENVELOPE(-174.5333,-20.2,71.65,-70.5833)",
   "dcat_centroid": "0.5333500000000058,-97.36664999999999",
   "pcdm_memberOf_sm": [
@@ -44,6 +50,6 @@
   "dct_identifier_sm": [
     "8f0e3319-4ab9-466d-bfb7-6b085c7ed6af"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

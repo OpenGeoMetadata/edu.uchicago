@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "University of Chicago Local Community Research Committee"
+    "University of Chicago. Local Community Research Committee"
   ],
   "schema_provider_s": "University of Chicago",
   "gbl_resourceClass_sm": [
@@ -16,7 +16,8 @@
   "dcat_keyword_sm": [
     "Ethnology",
     "Land use",
-    "University of Chicago Social Science Maps"
+    "University of Chicago Social Science Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926"
@@ -28,10 +29,10 @@
     "[1926 TO 1926]"
   ],
   "dct_spatial_sm": [
-    "Chicago, Illinois",
+    "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.7811,-87.5236,41.9839,41.72)",
+  "locn_geometry": "POLYGON((-87.7811 41.9839, -87.5236 41.9839, -87.5236 41.72, -87.7811 41.72, -87.7811 41.9839))",
   "dcat_bbox": "ENVELOPE(-87.7811,-87.5236,41.9839,41.72)",
   "dcat_centroid": "41.85195,-87.65235",
   "pcdm_memberOf_sm": [
@@ -45,11 +46,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6E1-1926-C5.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2q41s96rb7w\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2q41s96rb7w.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6E1-1926-C5.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2q41s96rb74\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2q41s96rb74.json\"}",
   "id": "b1900288-2ee3-4f64-a946-1273074fbb71",
   "dct_identifier_sm": [
-    "https://www.lib.uchicago.edu/ark:/61001/b2q41s96rb7w"
+    "https://www.lib.uchicago.edu/ark:/61001/b2q41s96rb74"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:25Z",
+  "gbl_mdModified_dt": "2023-03-22T22:15:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

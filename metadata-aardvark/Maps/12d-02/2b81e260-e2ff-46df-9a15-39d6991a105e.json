@@ -3,6 +3,10 @@
   "dct_description_sm": [
     "1 map; Relief shown pictorially; \"Dediée a Guiliaume IIIe, Roy de la Grand Brettagne.\"; \"J.V. Vianen, del et fecit.\"; State 4 according to McLaughlin; Inset: (Mer de Iesso); In upper right margin: Pag: 1. Scale approximately 1:19,500,000 (W 152°12ʹ00ʺ--W 8°03ʹ00ʺ/N 72°26ʹ00ʺ--S 11°01ʹ00ʺ)."
   ],
+  "dct_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dct_creator_sm": [
     "Hennepin, Louis, active 17th century"
   ],
@@ -17,7 +21,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1704"
@@ -31,7 +37,7 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "locn_geometry": "ENVELOPE(-152.2,-8.05,72.4333,-11.0167)",
+  "locn_geometry": "POLYGON((-152.2 72.4333, -8.05 72.4333, -8.05 -11.0167, -152.2 -11.0167, -152.2 72.4333))",
   "dcat_bbox": "ENVELOPE(-152.2,-8.05,72.4333,-11.0167)",
   "dcat_centroid": "30.7083,-80.125",
   "pcdm_memberOf_sm": [
@@ -47,6 +53,6 @@
   "dct_identifier_sm": [
     "2b81e260-e2ff-46df-9a15-39d6991a105e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -20,7 +20,8 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1700"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "ENVELOPE(-140,-20,79,7)",
+  "locn_geometry": "POLYGON((-140 79, -20 79, -20 7, -140 7, -140 79))",
   "dcat_bbox": "ENVELOPE(-140,-20,79,7)",
   "dcat_centroid": "43.0,-80.0",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "2981a2fb-d119-4a62-95d7-060d507ed16a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:50Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }
