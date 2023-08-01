@@ -3,6 +3,9 @@
   "dct_description_sm": [
     "1 map: color; Relief depicted pictorially; Boundaries of territories, coastlines, and border of map are hand-colored; The initial part of the title has been clipped away in the University of Chicago Library's copy.ICU; Map clipped from The magazine of magazines, volume 1, November 1750, opposite page 401; Jolly, Maps of America in periodicals before 1800, no. 40. Scale not given (W 93°10'00\"-W 80°38'00\"/N 20°24'00\"-N 10°42'00\")."
   ],
+  "dct_language_sm": [
+    "eng"
+  ],
   "dct_publisher_sm": [
     "William Owen"
   ],
@@ -14,6 +17,7 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
+    "2022-07-26-language",
     "Early Maps of the Americas"
   ],
   "dct_temporal_sm": [
@@ -28,7 +32,7 @@
   "dct_spatial_sm": [
     "Central America"
   ],
-  "locn_geometry": "ENVELOPE(-93.1667,-80.6333,20.4,10.7)",
+  "locn_geometry": "POLYGON((-93.1667 20.4, -80.6333 20.4, -80.6333 10.7, -93.1667 10.7, -93.1667 20.4))",
   "dcat_bbox": "ENVELOPE(-93.1667,-80.6333,20.4,10.7)",
   "dcat_centroid": "15.549999999999999,-86.9",
   "pcdm_memberOf_sm": [
@@ -44,6 +48,6 @@
   "dct_identifier_sm": [
     "cc82535f-71e2-40f1-8c20-d563d257e37c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -3,6 +3,9 @@
   "dct_description_sm": [
     "1 color map; Scale: 1:9,504,000; 150 miles to 1 inch; C. Simonneau fecit; For information concerning this map and its various revised ed. consult Phillips, Philip Lee. List of geographical atlases in Library of Congress. Scale approximately 1:9,080,000 (W 112°39ʹ00ʺ--W 56°34ʹ00ʺ/N 49°15ʹ00ʺ--N 6°28ʹ00ʺ)."
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_creator_sm": [
     "L'Isle, Guillaume de, 1675-1726"
   ],
@@ -17,7 +20,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1703"
@@ -32,7 +37,7 @@
     "Mexico",
     "United States"
   ],
-  "locn_geometry": "ENVELOPE(-112.65,-56.5667,49.25,6.4667)",
+  "locn_geometry": "POLYGON((-112.65 49.25, -56.5667 49.25, -56.5667 6.4667, -112.65 6.4667, -112.65 49.25))",
   "dcat_bbox": "ENVELOPE(-112.65,-56.5667,49.25,6.4667)",
   "dcat_centroid": "27.85835,-84.60835",
   "pcdm_memberOf_sm": [
@@ -48,6 +53,6 @@
   "dct_identifier_sm": [
     "7734904a-fb64-412c-97c6-e8e158257dd4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

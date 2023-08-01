@@ -16,7 +16,11 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:50Z",
+  "layer_modified_dt": "2023-02-03T21:16:20Z",
+  "dc_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dc_publisher_s": "Chez Pierre vander Aa",
   "dct_temporal_sm": [
     "1704"

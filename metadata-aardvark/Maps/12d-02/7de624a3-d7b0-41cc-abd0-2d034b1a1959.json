@@ -3,6 +3,10 @@
   "dct_description_sm": [
     "1 map; (In Abelin (Johann Philipp). Newe welt und Americanische historien. Durch Johann Ludwig Gottfriedt (pseud.) fol. Franckfurt, 1631. p. 1); Insets: Groenlan and text \"Septentrionalisimas America párles, Groenlandiam puta, Islandiam et adjacentes quod Americæ comode comprehendi non potuerit, peculiare hac tabella. Spectatoriby exhibendas duximus.\"; Decorated with ships and fish. Scale approximately 1:50,010,000. At Equator (W 139°55ʹ00ʺ--W 20°12ʹ00ʺ/N 71°39ʹ00ʺ--S 70°35ʹ00ʺ)."
   ],
+  "dct_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dct_creator_sm": [
     "Merian, Matthaeus, 1593-1650"
   ],
@@ -14,7 +18,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1645"
@@ -28,7 +34,7 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "locn_geometry": "ENVELOPE(-139.9167,-20.2,71.65,-70.5833)",
+  "locn_geometry": "POLYGON((-139.9167 71.65, -20.2 71.65, -20.2 -70.5833, -139.9167 -70.5833, -139.9167 71.65))",
   "dcat_bbox": "ENVELOPE(-139.9167,-20.2,71.65,-70.5833)",
   "dcat_centroid": "0.5333500000000058,-80.05834999999999",
   "pcdm_memberOf_sm": [
@@ -44,6 +50,6 @@
   "dct_identifier_sm": [
     "7de624a3-d7b0-41cc-abd0-2d034b1a1959"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:07Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

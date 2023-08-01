@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "University of Chicago Department of Sociology"
+    "University of Chicago. Department of Sociology"
   ],
   "schema_provider_s": "University of Chicago",
   "gbl_resourceClass_sm": [
@@ -22,7 +22,8 @@
   ],
   "dcat_keyword_sm": [
     "University of Chicago Social Science Maps",
-    "sprint-oct2020"
+    "sprint-oct2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1920"
@@ -35,11 +36,11 @@
     "[1920 TO 1920]"
   ],
   "dct_spatial_sm": [
-    "Chicago, Illinois",
-    "Woodlawn, Chicago, Illinois",
+    "Illinois--Chicago",
+    "Chicago-- Illinois--Woodlawn",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.6303,-87.5722,41.7867,41.7647)",
+  "locn_geometry": "POLYGON((-87.6303 41.7867, -87.5722 41.7867, -87.5722 41.7647, -87.6303 41.7647, -87.6303 41.7867))",
   "dcat_bbox": "ENVELOPE(-87.6303,-87.5722,41.7867,41.7647)",
   "dcat_centroid": "41.7757,-87.60125",
   "pcdm_memberOf_sm": [
@@ -53,11 +54,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6-2W9-1920z-U5.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2w80rn9bb9v\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2w80rn9bb9v.json\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://luna.lib.uchicago.edu/MediaManager/srvr?mediafile=/Size4/UCHICAGO~2~2/1718/G4104-C6-2W9-1920z-U5.jpg\",\"http://schema.org/url\":\"https://www.lib.uchicago.edu/collex/collections/social-scientists-map-chicago/object/b2w80rn9bb95\",\"http://iiif.io/api/presentation#manifest\":\"https://iiif-collection.lib.uchicago.edu/object/ark:/61001/b2w80rn9bb95.json\"}",
   "id": "7d184846-fb06-4266-a121-4f602339499f",
   "dct_identifier_sm": [
-    "https://www.lib.uchicago.edu/ark:/61001/b2w80rn9bb9v"
+    "https://www.lib.uchicago.edu/ark:/61001/b2w80rn9bb95"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:26Z",
+  "gbl_mdModified_dt": "2023-03-22T22:15:50Z",
   "gbl_mdVersion_s": "Aardvark"
 }

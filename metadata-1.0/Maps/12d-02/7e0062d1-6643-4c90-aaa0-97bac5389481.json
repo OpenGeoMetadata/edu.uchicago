@@ -5,7 +5,7 @@
   "dc_title_s": "Americae sive novi orbis nova descriptio",
   "dct_provenance_s": "University of Chicago",
   "layer_slug_s": "7e0062d1-6643-4c90-aaa0-97bac5389481",
-  "solr_geom": "ENVELOPE(-180,0,90,-90)",
+  "solr_geom": "ENVELOPE(-179.9,0,89,-89)",
   "solr_year_i": "1570",
   "dc_creator_sm": [
     "Ortelius, Abraham, 1527-1598"
@@ -16,7 +16,11 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:46Z",
+  "layer_modified_dt": "2023-06-23T22:03:34Z",
+  "dc_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dc_publisher_s": "Abraham Ortelius",
   "dct_temporal_sm": [
     "1570"

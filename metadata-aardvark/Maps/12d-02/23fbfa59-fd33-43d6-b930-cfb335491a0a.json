@@ -3,6 +3,9 @@
   "dct_description_sm": [
     "1 map: color; Relief shown pictorially; Includes \"Avertissement\" in draped curtain concerning the projection and scale. Scale approximately 1:29,460,000. At Equator (W 152°02ʹ00ʺ--E 18°06ʹ00ʺ/N 71°39ʹ00ʺ--S 70°35ʹ00ʺ)."
   ],
+  "dct_language_sm": [
+    "fre"
+  ],
   "dct_creator_sm": [
     "L'Isle, Guillaume de, 1675-1726"
   ],
@@ -17,7 +20,9 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1722"
@@ -31,7 +36,7 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "locn_geometry": "ENVELOPE(-152.0333,18.1,71.65,-70.5833)",
+  "locn_geometry": "POLYGON((-152.0333 71.65, 18.1 71.65, 18.1 -70.5833, -152.0333 -70.5833, -152.0333 71.65))",
   "dcat_bbox": "ENVELOPE(-152.0333,18.1,71.65,-70.5833)",
   "dcat_centroid": "0.5333500000000058,-66.96665",
   "pcdm_memberOf_sm": [
@@ -47,6 +52,6 @@
   "dct_identifier_sm": [
     "23fbfa59-fd33-43d6-b930-cfb335491a0a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

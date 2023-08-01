@@ -3,6 +3,10 @@
   "dct_description_sm": [
     "1 map: color; (In Mercator (Gerhard). Atlas. Ed. 10° (11th ed.) fol. Amsterodami, sumptibus H. Hondij, 1630); Insets: Golfo Mexi Cano; Haiti nunc Hispaniola; Cuba, and Title. Decorative border; Print version has date 1595 pencilled in title inset. Scale approximately 1:60,720,000 (W 180°--W 0°/N 90°--S 90°)."
   ],
+  "dct_language_sm": [
+    "eng",
+    "lat"
+  ],
   "dct_creator_sm": [
     "Mercator, Michael"
   ],
@@ -15,7 +19,10 @@
     "Thematic maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "2022-07-26-language",
+    "Early Maps of the Americas",
+    "2022-creator-sprint",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "approximately 1595"
@@ -29,9 +36,9 @@
   "dct_spatial_sm": [
     "America"
   ],
-  "locn_geometry": "ENVELOPE(-180,0,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,0,90,-90)",
-  "dcat_centroid": "0.0,-90.0",
+  "locn_geometry": "POLYGON((-179.9 89, 0 89, 0 -89, -179.9 -89, -179.9 89))",
+  "dcat_bbox": "ENVELOPE(-179.9,0,89,-89)",
+  "dcat_centroid": "0.0,-89.95",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,6 +52,6 @@
   "dct_identifier_sm": [
     "a38b7620-f5b3-46bf-b880-057b3a2cdbf6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:33Z",
+  "gbl_mdModified_dt": "2023-06-23T22:02:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

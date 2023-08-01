@@ -32,7 +32,7 @@
     "Gulf of Nicoya",
     "Costa Rica"
   ],
-  "locn_geometry": "ENVELOPE(-85.3167,-84.75,10.25,9.5167)",
+  "locn_geometry": "POLYGON((-85.3167 10.25, -84.75 10.25, -84.75 9.5167, -85.3167 9.5167, -85.3167 10.25))",
   "dcat_bbox": "ENVELOPE(-85.3167,-84.75,10.25,9.5167)",
   "dcat_centroid": "9.88335,-85.03335",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "018b1db0-726a-4727-af0a-5c7e18783ace"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:22Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

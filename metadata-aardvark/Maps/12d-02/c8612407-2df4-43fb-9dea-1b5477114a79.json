@@ -19,10 +19,14 @@
   ],
   "gbl_resourceType_sm": [
     "Early maps",
+    "",
     "World maps"
   ],
   "dcat_keyword_sm": [
-    "Early Maps of the Americas"
+    "Early Maps of the Americas",
+    "2022-creator-sprint",
+    "202212bbox",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "approximately 1648"
@@ -52,6 +56,6 @@
   "dct_identifier_sm": [
     "c8612407-2df4-43fb-9dea-1b5477114a79"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:57Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

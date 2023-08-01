@@ -31,7 +31,7 @@
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "locn_geometry": "ENVELOPE(-99.2475,-98.8458,19.8328,19.2369)",
+  "locn_geometry": "POLYGON((-99.2475 19.8328, -98.8458 19.8328, -98.8458 19.2369, -99.2475 19.2369, -99.2475 19.8328))",
   "dcat_bbox": "ENVELOPE(-99.2475,-98.8458,19.8328,19.2369)",
   "dcat_centroid": "19.53485,-99.04665",
   "pcdm_memberOf_sm": [
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "05b5c238-5423-4c5a-a244-4b93c46e6852"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }
